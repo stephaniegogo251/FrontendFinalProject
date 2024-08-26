@@ -386,6 +386,32 @@ body {
   top: -10px;
 }
 
+.main-bar-6 {
+  border: 5px solid #c79f8b;
+  background-color: #c79f8b;
+  color: white;
+  width: 90%;
+  margin-left: 60px;
+  border-radius: 15px;
+  display: flex;
+  position: relative;
+}
+
+.left-bar-6 {
+  width: 80%;
+  border: 5px solid #764b36;
+  background-color: #764b36;
+  padding: 5px;
+  border-radius: 10px;
+  animation: left-bar-5 2s ease-in;
+}
+
+.main-bar-6:hover {
+  border: 5px solid #764b36;
+  cursor: pointer;
+  top: -10px;
+}
+
 .form-div {
   display: flex;
   flex-direction: row;
