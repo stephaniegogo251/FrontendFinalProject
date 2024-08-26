@@ -43,6 +43,24 @@ export const Main = () => {
                 <br></br><br></br>
                 <p>New Indian Model School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;&nbsp;2010-2023<br></br><br></br>
                 Middlesex University Dubai&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;&nbsp;&nbsp;2023-present</p>
+                <h3><b>Certificates:</b></h3>
+                <div className='certs'>
+                    <div className='certs-div'>
+                        <div className='cert1'></div>
+                        <div className='line'></div>
+                        <p>Python Essentials</p>
+                    </div>
+                    <div className='certs-div'>
+                        <div className='cert2'></div>
+                        <div className='line'></div>
+                        <p>Responsive Web Design</p>
+                    </div>
+                    <div className='certs-div'>
+                        <div className='cert3'></div>
+                        <div className='line'></div>
+                        <p>Linux Command Line</p>
+                    </div>
+                </div>
             </div>
             <div id='projects'>
                 <h1>MY PROJECTS</h1>
@@ -50,17 +68,17 @@ export const Main = () => {
                     <div id='project'>
                         <h1>Project 1:<br></br>Java Quiz Generator</h1>
                         <p>An application made using Java and FXML that allows users to login/sign in and attempt a quiz and compete with other users (leaderboard).</p>
-                        <h3><a href='https://github.com/stephaniegogo251/QuizGenerator' target='blank'>Github</a></h3>
+                        <a href='https://github.com/stephaniegogo251/QuizGenerator' target='blank'>Github</a>
                     </div>
                     <div id='project'>
                         <h1>Project 2:<br></br>Weather App</h1>
                         <p>An application made using HTML, CSS and an API, that lets users check the weather condition (temperature, precipitation, and wind km/hr).</p>
-                        <h3><a href='https://github.com/stephaniegogo251/Week3WeatherApp' target='blank'>Github</a></h3>
+                        <a href='https://github.com/stephaniegogo251/Week3WeatherApp' target='blank'>Github</a>
                     </div>
                     <div id='project'>
                         <h1>Project 3:<br></br>Todo List</h1>
                         <p>An application created using HTML, Javascript and React that helps people keep track of their daily tasks (add, edit, clear and delete tasks).</p>
-                        <h3><a href='https://github.com/stephaniegogo251/Week5TodoList' target='blank'>Github</a></h3>
+                        <a href='https://github.com/stephaniegogo251/Week5TodoList' target='blank'>Github</a>
                     </div>
                 </div>
             </div>
@@ -69,22 +87,22 @@ export const Main = () => {
                 <h3>HTML</h3>
                 <div className='main-bar-1'>
                     <div className='left-bar-1'>85%</div>
-                    <div className='right-bar-1'></div>
                 </div>
                 <h3>CSS</h3>
                 <div className='main-bar-2'>
                     <div className='left-bar-2'>75%</div>
-                    <div className='right-bar-2'></div>
                 </div>
                 <h3>Javascript</h3>
                 <div className='main-bar-3'>
                     <div className='left-bar-3'>60%</div>
-                    <div className='right-bar-3'></div>
                 </div>
                 <h3>Java</h3>
                 <div className='main-bar-4'>
                     <div className='left-bar-4'>70%</div>
-                    <div className='right-bar-4'></div>
+                </div>
+                <h3>Python</h3>
+                <div className='main-bar-5'>
+                    <div className='left-bar-5'>90%</div>
                 </div>
             </div>
             <div id='contact'>
