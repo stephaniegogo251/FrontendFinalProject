@@ -160,7 +160,7 @@ body {
 }
 
 .profile-pic {
-  background: url('public/thisisme.png');
+  background: url('../public/thisisme.png');
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
@@ -210,7 +210,7 @@ body {
   bottom: 20px;
   cursor: pointer;
   background-color: none;
-  background: url('public/brwn.jpg');
+  background: url('../public/brwn.jpg');
 }
 
 #project h1 {
@@ -463,7 +463,7 @@ html {
 }
 
 .cert1 {
-  background: url('public/cert1.png');
+  background: url('../public/cert1.png');
   background-size: contain;
   background-repeat: no-repeat;
   width: 250px;
@@ -471,7 +471,7 @@ html {
 }
 
 .cert2 {
-  background: url('public/cert2.jpg');
+  background: url('../public/cert2.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   width: 250px;
@@ -479,7 +479,7 @@ html {
 }
 
 .cert3 {
-  background: url('public/cert3.png');
+  background: url('../public/cert3.png');
   background-size: contain;
   background-repeat: no-repeat;
   width: 250px;
