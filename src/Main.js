@@ -104,6 +104,10 @@ export const Main = () => {
                 <div className='main-bar-5'>
                     <div className='left-bar-5'>90%</div>
                 </div>
+                <h3>SQL</h3>
+                <div className='main-bar-6'>
+                    <div className='left-bar-6'>90%</div>
+                </div>
             </div>
             <div id='contact'>
                 <h1>CONTACT ME</h1>
