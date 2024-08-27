@@ -36,8 +36,8 @@ export const Main = () => {
                         </ul>
                     </div>
                 </div>
-                <p>I'm a first-year IT student with a passion for technology and a hunger to learn. Eager to dive into the world of IT, I'm enthusiastic about exploring new concepts and solving complex problems. With a strong work ethic, I'm ready to jump into projects and contribute effectively.<br></br><br></br>
-                Driven by curiosity and a desire to excel, I'm committed to honing my skills and growing in the field of IT. As a diligent first-year student, I approach challenges with determination and embrace opportunities for learning. With a proactive attitude, I'm excited to collaborate and make a positive impact.</p>
+                <p>I'm a second-year IT student with a passion for technology and a hunger to learn. Eager to dive into the world of IT, I'm enthusiastic about exploring new concepts and solving complex problems. With a strong work ethic, I'm ready to jump into projects and contribute effectively.<br></br><br></br>
+                Driven by curiosity and a desire to excel, I'm committed to honing my skills and growing in the field of IT. As a diligent second-year student, I approach challenges with determination and embrace opportunities for learning. With a proactive attitude, I'm excited to collaborate and make a positive impact.</p>
                 <br></br>
                 <h3><b>Education:</b></h3>
                 <br></br><br></br>
